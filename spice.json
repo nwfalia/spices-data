@@ -1,0 +1,152 @@
+[
+    {   
+        "nama" : "Asam Jawa", 
+        "namaLatin" : "Tamarindus indica", 
+        "deskripsi" : "Asam jawa, asam atau asem adalah sejenis buah yang masam rasanya; biasa digunakan sebagai campuran bumbu dalam banyak masakan Indonesia sebagai perasa atau penambah rasa asam dalam makanan, misalnya pada sayur asam atau kadang-kadang pada kuah pempek. Asam juga digunakan untuk campuran jamu tradisional yang dijual oleh penjual jamu keliling, biasanya ibu-ibu yang menggendong bakul dengan botol berisi aneka jamu (jamu gendong).",
+        "image" : "asam_jawa.png"
+    }, 
+    {
+        "nama" : "Bangle",
+        "namaLatin" : "Zingiber cassumunar",
+        "deskripsi" : "Bangle adalah salah satu tanaman rempah-rempah anggota suku temu-temuan (Zingiberaceae). Rimpangnya dimanfaatkan sebagai bumbu dapur dan bahan pengobatan. Tumbuhan ini dikenal diberbagai tempat dengan nama yang bervariasi: mungle (Aceh), bungle (Tapanuli), kunik bolai (Rana Minang), banglee'iy (Rejang), panglai (Pasundan/Sunda), pandhiyang (Madura), bale (Makassar), panini (Bugis), unin makei (Ambon).",
+        "image" : "bangle.png"
+    }, 
+    {
+        "nama" : "Bawang Bombai",
+        "namaLatin" : "Allium cepa",
+        "deskripsi" : "Bawang bombai adalah jenis bawang yang paling banyak dan luas dibudidayakan, dipakai sebagai bumbu maupun bahan masakan, berbentuk bulat besar dan berdaging tebal. Bawang bombai biasa digunakan dalam memasak makanan di Indonesia, tidak hanya digunakan sebagai hiasan tetapi juga bagian dari masakan karena bentuknya yang besar dan tebal dagingnya. Disebut bawang bombai karena dibawa oleh pedagang-pedagang yang berasal dari kota Bombai (Mumbai sekarang) di India ke Indonesia.",
+        "image" : "bawang_bombai.png"
+    }, 
+    {
+        "nama" : "Bawang Merah",
+        "namaLatin" : "Allium cepa var. aggregatum",
+        "deskripsi" : "Bawang merah adalah salah satu bumbu masak utama dunia yang berasal dari Iran, Pakistan, dan pegunungan-pegunungan di sebelah utaranya, tetapi kemudian menyebar ke berbagai penjuru dunia, baik sub-tropis maupun tropis. Wujudnya berupa umbi yang dapat dimakan mentah, untuk bumbu masak, acar, obat tradisional, kulit umbinya dapat dijadikan zat pewarna dan daunnya dapat pula digunakan untuk campuran sayur.",
+        "image" : "bawang_merah.png"
+    }, 
+    {
+        "nama" : "Bawang Putih",
+        "namaLatin" : "Allium sativum",
+        "deskripsi" : "Bawang putih adalah nama tanaman dari genus Allium sekaligus nama dari umbi yang dihasilkan. Mempunyai sejarah penggunaan oleh manusia selama lebih dari 7.000 tahun, terutama tumbuh di Asia Tengah, dan sudah lama menjadi bahan makanan di daerah sekitar Laut Tengah, serta bumbu umum di Asia, Afrika, dan Eropa. Dikenal di dalam catatan Mesir kuno, digunakan baik sebagai campuran masakan maupun pengobatan. Bawang putih digunakan sebagai bumbu yang digunakan hampir di setiap makanan dan masakan Indonesia.",
+        "image" : "bawang_putih.png"
+    }, 
+    {
+        "nama" : "Cengkih",
+        "namaLatin" : "Syzygium aromaticum",
+        "deskripsi" : "Cengkih adalah kuncup bunga kering beraroma dari keluarga pohon Myrtaceae. Cengkih adalah tanaman asli Indonesia, banyak digunakan sebagai bumbu masakan pedas di negara-negara Eropa, dan sebagai bahan utama rokok kretek khas Indonesia. Cengkih ditanam terutama di Indonesia (Kepulauan Banda) dan Madagaskar; selain itu juga dibudidayakan di Zanzibar, India, dan Sri Lanka. Cengkih dapat digunakan sebagai bumbu, baik dalam bentuknya yang utuh atau sebagai bubuk.",
+        "image" : "cengkih.png"
+    }, 
+    {
+        "nama" : "Jahe",
+        "namaLatin" : "Zingiber officinale",
+        "deskripsi" : "Jahe adalah tanaman rimpang yang sangat populer sebagai rempah-rempah dan bahan obat. Rimpangnya berbentuk jemari yang menggembung di ruas-ruas tengah. Rasa dominan pedas disebabkan senyawa keton bernama zingeron. Jahe termasuk suku Zingiberaceae (temu-temuan). Nama ilmiah jahe diberikan oleh William Roxburgh dari kata Yunani zingiberi, dari Bahasa Sanskerta, singaberi.",
+        "image" : "jahe.png"
+    }, 
+    {
+        "nama" : "Jeruk Nipis",
+        "namaLatin" : "Citrus aurantifolia",
+        "deskripsi" : "Jeruk nipis merupakan jenis tumbuhan yang masuk kedalam suku jeruk-jerukan, tersebar di Asia Dan Amerika Tengah dikenal juga sebagai jeruk pecel. Perbungaan muncul dari ketiak daun dan bunga kecil, putih berbau harum. Buah bulat sampai bulat telur, berwarna hijau sampai kuning dan kulit buah tipis. Daging buah berwarna putih kehijauan, sangat asam, mengandung banyak vitamin C dan asam sitrat. Di Indonesia dapat hidup di dataran rendah sampai ketinggian 1000 m dari permukaan laut.",
+        "image" : "jeruk_nipis.png"
+    }, 
+    {
+        "nama" : "Jeruk Purut",
+        "namaLatin" : "Citrus hystrix",
+        "deskripsi" : "Jeruk purut merupakan tumbuhan perdu yang dimanfaatkan terutama buah dan daunnya sebagai bumbu penyedap masakan. Dalam dunia boga Asia Tenggara penggunaannya cukup sering dan rasa sari buahnya yang masam biasanya digunakan sebagai penetral bau amis daging atau ikan untuk mencegah rasa mual, seperti pada siomay. Daun jeruk purut juga banyak dipakai . Potongannya dicampurkan pada bumbu pecel atau juga gado-gado untuk mengharumkan.",
+        "image" : "jeruk_purut.png"
+    }, 
+    {
+        "nama" : "Jintan",
+        "namaLatin" : "Trachyspermum roxburghianum",
+        "deskripsi" : "Jintan merupakan tumbuhan menjalar yang bijinya dapat digunakan untuk rempah-rempah dan obat-obatan. Biji tanaman ini sering digunakan sebagai bumbu dapur untuk masakan India. Tanaman ini banyak dibudidayakan di India dan Asia Tenggara. Rasanya lebih dekat kepada kelabat atau klabet daripada jenis rempah lain.",
+        "image" : "jintan.png"
+    }, 
+    {
+        "nama" : "Kemiri",
+        "namaLatin" : "Aleurites moluccana",
+        "deskripsi" : "Kemiri adalah tumbuhan yang bijinya dimanfaatkan sebagai sumber minyak dan rempah-rempah. Kemiri terutama ditanam untuk bijinya; yang setelah diolah sering digunakan dalam masakan Indonesia dan masakan Malaysia. Di Pulau Jawa, kemiri juga dijadikan sebagai saus kental yang dimakan dengan sayuran dan nasi.",
+        "image" : "kemiri.png"
+    }, 
+    {
+        "nama" : "Kencur",
+        "namaLatin" : "Kaempferia galanga",
+        "deskripsi" : "Kencur adalah salah satu jenis empon-empon/tanaman obat yang tergolong dalam suku temu-temuan (Zingiberaceae). Berbagai masakan tradisional Indonesia dan jamu menggunakan kencur sebagai bagian resepnya. Kencur dipakai orang sebagai tonikum dengan khasiat menambah nafsu makan sehingga sering diberikan kepada anak-anak. Jamu beras kencur sangat populer sebagai minuman penyegar pula. Di Bali, urap dibuat dengan menggunakan daun kencur.",
+        "image" : "kencur.png"
+    }, 
+    {
+        "nama" : "Ketumbar",
+        "namaLatin" : "Coriandrum sativum",
+        "deskripsi" : "Ketumbar adalah tumbuhan rempah-rempah yang populer. Buahnya yang kecil dikeringkan dan diperdagangkan, baik digerus maupun tidak. Bentuk yang tidak digerus mirip dengan lada, seperti biji kecil-kecil berdiameter 1-2 mm. Ketumbar mempunyai aroma yang khas. Aroma ini disebabkan oleh komponen kimia yang terdapat dalam minyak atsiri ketumbar. Komponen utama minyak atsir ketumbar adalah linalool, dengan komponen pendukung lainnya seperti geraniol, geranil asetat dan camphor.",
+        "image" : "ketumbar.png"
+    }, 
+    {
+        "nama" : "Kunyit",
+        "namaLatin" : "Curcuma longa",
+        "deskripsi" : "Kunyit atau kunir adalah termasuk salah satu tanaman rempah-rempah dan obat asli dari wilayah Asia Tenggara. Kunyit adalah rempah-rempah yang biasa digunakan dalam masakan di negara-negara Asia. Kunyit sering digunakan sebagai bumbu dalam masakan sejenis gulai, dan juga digunakan untuk memberi warna kuning pada masakan, atau sebagai pengawet.",
+        "image" : "kunyit.png"
+    },
+    {
+        "nama" : "Lada",
+        "namaLatin" : "Piper nigrum",
+        "deskripsi" : "Lada, disebut juga Merica yang mempunyai nama Latin Piper Albi Linn adalah sebuah tanaman yang kaya akan kandungan kimia, seperti minyak lada, minyak lemak, juga pati. Lada bersifat sedikit pahit, pedas, hangat, dan antipiretik. Saat ni produk utama dari lada yaitu lada tu sendiri yang  memiliki beberapa  kegunaan  di antaranya  yaitu  untuk kesehatan,  untuk obat-obat  tradisional  maupun modern. Selain itu  biji lada pun  dapat dipakaiuntuk ramuan  obat reumatik.",
+        "image" : "lada.png"
+    }, 
+    {
+        "nama" : "Lengkuas",
+        "namaLatin" : "Alpinia galanga",
+        "deskripsi" : "Lengkuas, laos atau kelawas merupakan jenis tumbuhan umbi-umbian yang bisa hidup di daerah dataran tinggi maupun dataran rendah. Umumnya masyarakat memanfaatkannya sebagai campuran bumbu masak dan pengobatan tradisional. Pemanfaatan lengkuas untuk masakan dengan cara mememarkan rimpang kemudian dicelupkan begitu saja ke dalam campuran masakan, sedangkan untuk pengobatan tradisional yang banyak digunakan adalah lengkuas merah.",
+        "image" : "lengkuas.png"
+    }, 
+    {
+        "nama" : "Pala",
+        "namaLatin" : "Myristica fragrans",
+        "deskripsi" : "Pala merupakan tumbuhan berupa pohon yang berasal dari kepulauan Banda, Maluku. Produk utama dari tanaman pala adalah minyak atsiri yang dapat dihasilkan melalui penyulingan dari bahan baku berupa daging buah, biji, dan fuli pala. minyak atsiri pala ini bahkan dijadikan sebagai bahan baku aromaterapi yang bersifat menghilangkan stress karena adanya kandung myristicin-nya. Kandungan myristicin  lebih tinggi kadarnya pada daging buah pala dibandingkan dengan biji dan fulinya.",
+        "image" : "pala.png"
+    }, 
+    {
+        "nama" : "Serai",
+        "namaLatin" : "Cymbopogon citratus",
+        "deskripsi" : "Serai atau sereh adalah tumbuhan anggota suku rumput-rumputan yang dimanfaatkan sebagai bumbu dapur untuk mengharumkan makanan. Minyak serai adalah minyak atsiri yang diperoleh dengan jalan menyuling bagian atas tumbuhan tersebut. Minyak serai dapat digunakan sebagai pengusir (repelen) nyamuk, baik berupa tanaman ataupun berupa minyaknya. Kandungan serai antara lain adalah sitronela, yang tidak disukai oleh nyamuk. Maka dari itu, serai dapat dibuat menjadi obat nyamuk dan serangga lainnya.",
+        "image" : "serai.png"
+    },
+    {
+        "nama" : "Temu Lawak",
+        "namaLatin" : "Cyrcuma xanthorrhiza",
+        "deskripsi" : "Temu lawak adalah tumbuhan obat yang tergolong dalam suku temu-temuan (Zingiberaceae). Di Indonesia satu-satunya bagian yang dimanfaatkan adalah rimpang temu lawak untuk dibuat jamu godog. Manfaat lain dari rimpang tanaman ini adalah sebagai obat jerawat, meningkatkan nafsu makan, anti kolesterol, antiinflamasi, anemia, antioksidan, pencegah kanker, dan antimikroba.",
+        "image" : "temu_lawak.png"
+    },
+    {
+        "nama" : "Adas Manis",
+        "namaLatin" : "Pimpinella anisum",
+        "deskripsi" : "Adas manis atau anis merupakan sejenis tumbuhan berbunga dari famili Apiaceae yang berasal dari kawasan Laut Tengah bagian timur dan Asia barat daya. Adas manis memang terasa manis dan memiliki wangi yang khas, biasa digunakan untuk membuat camilan yang tinggi kadar gula. Dalam aromaterapi, minyak atsiri adas manis digunakan untuk merawat pilek dan flu.",
+        "image" : "adas_manis.png"
+    },
+    {
+        "nama" : "Asam Kandis",
+        "namaLatin" : "Garcinia Xanthochymus",
+        "deskripsi" : "Asam kandis termasuk golongan pohon yang daunnya selalu hijau (evergreen) dalam arti tidak menggugurkan daunnya di musim gugur. Asam kandis dimanfaatkan buahnya. Rasa buahnya masam sedangkan rasa kulit buah kelat. Buah asam kandis yang sudah dikeringkan umumnya dijadikan bumbu dapur, selai, campuran kari. Buah segarnya dapat dibuat acar. Asam kandis banyak dipakai dalam masakan dari Sumatra, seperti Rendang, pindang ikan dan pindang daging.",
+        "image" : "asam_kandis.png"
+    },
+    {
+        "nama" : "Kecombrang",
+        "namaLatin" : "Etlingera elatior",
+        "deskripsi" : "Kecombrang, kantan, atau honje adalah sejenis tumbuhan rempah dan merupakan tumbuhan tahunan berbentuk terna yang bunga, buah, serta bijinya dimanfaatkan sebagai bahan sayuran. Kuntum bunga ini sering dijadikan lalap atau direbus lalu dimakan bersama sambal di Jawa Barat. Kecombrang yang dikukus juga kerap dijadikan bagian dari pecel di daerah Banyumas. Di Pekalongan, kecombrang yang diiris halus dijadikan campuran pembuatan megana, sejenis urap berbahan dasar nangka muda.",
+        "image" : "kecombrang.png"
+    }, 
+    {
+        "nama" : "Lempuyang",
+        "namaLatin" : "Zingiber zerumbet",
+        "deskripsi" : "Lempuyang atau lempuyang wangi adalah sejenis rempah-rempah yang berkhasiat obat. Lempuyang diketahui mampu menginduksi apoptosis sel-sel kanker. Hasil kajian di Jepang menemukan bahwa ekstrak rimpang lempuyang dapat menekan pertumbuhan sel-sel melanoma pada mencit percobaan. Efek penekanan (inhibitor) diketahui terjadi melalui penghambatan terhadap ekspresi gen tirosinase pada sel melanoma.",
+        "image" : "lempuyang.png"
+    },
+    {
+        "nama" : "Salam",
+        "namaLatin" : "Syzygium polyanthum",
+        "deskripsi" : "Salam adalah nama pohon penghasil daun rempah yang digunakan dalam masakan Nusantara. Secara tradisional, daun salam digunakan sebagai obat sakit perut. Daun salam juga dapat digunakan untuk menghentikan buang air besar yang berlebihan. Pohon salam bisa juga dimanfaatkan untuk mengatasi asam urat, stroke, kolesterol tinggi, melancarkan peredaran darah, radang lambung, diare, gatal-gatal, kencing manis, dan lain-lain.",
+        "image" : "salam.png"
+    },
+    {
+        "nama" : "Temu Hitam",
+        "namaLatin" : "Curcuma aeruginosa",
+        "deskripsi" : "Temu hitam adalah sejenis tumbuhanan yang rimpangnya dimanfaatkan sebagai campuran obat/jamu. Temu hitam dikenal pula sebagai temu erang, temu ireng, atau temu lotong. Daunnya berwarna merah lembayung-kecoklatan yang berwarna lebih gelap pada sepanjang tulang daunnya. Daunnya tunggal, panjang, dan terdiri atas 2-9 helai. Helaiannya berbentuk bundar memanjang sampai lanset, ujung dan pangkalnya runcing, berwarna hijau tua pada kiri-kanan tulang daun. Panjang daun 31–84 cm, dengan lebar 10–18 cm.",
+        "image" : "temu_hitam.png"
+    }
+]
